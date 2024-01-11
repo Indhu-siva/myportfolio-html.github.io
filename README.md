@@ -12,6 +12,7 @@
 ## Technology used:
 - HTML
 - CSS
+- Javascipt
 
 ## Illustration and Images
 - [Undraw](https://undraw.co/)
