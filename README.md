@@ -17,7 +17,3 @@
 ## Illustration and Images
 - [Undraw](https://undraw.co/)
 - [Hackerblock](https://hack.codingblocks.com/)
-
-
-
-
